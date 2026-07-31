@@ -53,7 +53,7 @@ If you find the models useful in your research, we ask that you cite the relevan
 For the DeepAlloWeb webserver:
 ```bibtex
 @article{khokhar2026deepalloweb,
-    author = {Moaaz Khokhar and Ozlem Keskin and Attila Gursoy},
+    author = {Khokhar, Moaaz and Keskin, Ozlem and Gursoy, Attila},
     title = {DeepAlloWeb: a web server for interactive allosteric pockets prediction using protein language model},
     journal = {Journal of Molecular Biology},
     volume = {438},
@@ -62,7 +62,7 @@ For the DeepAlloWeb webserver:
     year = {2026},
     note = {Computation Resources for Molecular Biology},
     issn = {0022-2836},
-    doi = {https://doi.org/10.1016/j.jmb.2026.169863},
+    doi = {10.1016/j.jmb.2026.169863},
     url = {https://www.sciencedirect.com/science/article/pii/S0022283626002366},
 }
 ```
